@@ -1,1 +1,71 @@
-Privacy policy
+# Privacy Policy for "Ugnės mergvakaris"
+
+**Effective date:** April 28, 2026  
+**Last updated:** April 28, 2026
+
+"Ugnės mergvakaris" (package name: `lt.dz.geoseses`) is provided by **Domantas Zavadskis** ("we", "our", or "us").
+
+This Privacy Policy explains how "Ugnės mergvakaris" handles information when you use the app.
+
+## 1. Information We Collect
+
+We do **not** collect or store personal data such as your name, email address, phone number, account information, or device identifiers.
+
+We do **not** collect user-generated content.
+
+We do **not** use analytics or crash reporting SDKs.
+
+We do **not** show ads, and we do **not** sell or share data for advertising or cross-app tracking.
+
+## 2. Location Permission and Use
+
+"Ugnės mergvakaris" requests location permission (`ACCESS_FINE_LOCATION` / `ACCESS_COARSE_LOCATION`) only to show your current location on the map when you grant permission.
+
+Location data is used temporarily on-device for this feature and is **not stored** by us and **not shared** by us.
+
+If you do not grant location permission, the app can still be used without the "show my location" feature.
+
+## 3. Third-Party Services
+
+"Ugnės mergvakaris" uses **Google Maps SDK for Android** to display map content.
+
+When you use map features, Google may process certain technical data according to Google's own privacy terms. Please review:
+- https://policies.google.com/privacy
+
+## 4. Legal Basis (EU)
+
+For users in the EU/EEA, where applicable, processing is based on:
+- **Consent** (for optional location permission), and
+- **Legitimate interests** (providing core map functionality and app operation).
+
+## 5. Data Retention
+
+We do not store personal data.
+
+Location data used for displaying your position is not retained by us.
+
+## 6. Data Security
+
+We use reasonable technical measures and rely on secure platform/network mechanisms. Data transmitted over networks is encrypted in transit where applicable.
+
+No method of transmission or storage is 100% secure.
+
+## 7. Children's Privacy
+
+"Ugnės mergvakaris" is not directed to children under 13.
+
+We do not knowingly collect personal data from children.
+
+## 8. Your Rights and Contact
+
+Because we do not collect or store personal data, there is generally no user data for us to access, correct, or delete.
+
+If you have privacy questions, contact:
+
+**Domantas Zavadskis**  
+**Email:** domantaszavadskis@gmail.com
+
+## 9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted with an updated "Last updated" date.
+
